@@ -1,0 +1,38 @@
+_repo: Frank-Merriwell-s-AlarmDoing-His-Best_38429
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, William G. (William Gilbert)
+    - Wilder, William W. (William West)
+    - Patten, William Gilbert
+    - Patten, George William
+    - Patten, Gilbert
+    - Wilder, William West
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2011-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bicycle touring -- Juvenile fiction'
+- !lcsh 'Merriwell, Frank (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'College students -- Juvenile fiction'
+title: Frank Merriwell's Alarm; Or, Doing His Best
+url: http://www.gutenberg.org/ebooks/38429
